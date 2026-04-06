@@ -30,7 +30,7 @@ Social media moderation at scale is a hard problem. I wanted to see how well a t
 ## Structure
 
 ```
-tweet-hate-speech-classifier/
+tweet_hate_speech_classifier/
 ├── tweet_classifier_bertweet.ipynb   # Training & inference pipeline
 ├── train.csv                         # Training data (not included — not publicly redistributable)
 └── test_no_label.csv                 # Test data (not included)
